@@ -1,0 +1,29 @@
+Body 
+{ background-color: Navy;
+}
+h1
+{ color:white;
+}
+h2
+{ color:white;
+}
+p
+{ color:white;
+}
+P1
+{ color:white;
+}
+h2 {
+text-align:center; 
+}
+p2 { 
+Font-size:30px;
+font-family:Garamond;
+color:white;
+text-align:center;
+}  
+article {
+max-width: 70%;
+padding: 10px;
+margin: 0 auto;
+}
